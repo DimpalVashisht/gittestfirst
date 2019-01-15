@@ -1,2 +1,3 @@
 <?php 
-echo 'one';?>
+echo 'one';
+echo 'two;'?>
